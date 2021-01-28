@@ -8,7 +8,7 @@ public class AleatorioEmple {
 		crear();
 		leer();
 		
-		System.out.println("Primer commit");
+		System.out.println("Linea de visualización 1");
 		
 	}
 
@@ -44,6 +44,8 @@ public class AleatorioEmple {
 			System.out.println(" ------------------------------------------");
 		} else 
 			System.out.println(" ---------FICHERO VACÍO --------------------");
+		
+		System.out.println("Linea de visualización 2 - Commit 2");
 	}// fin verporconsola
 
 	public static void crear() throws IOException {
