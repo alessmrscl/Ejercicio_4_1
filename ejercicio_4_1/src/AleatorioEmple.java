@@ -67,6 +67,8 @@ public class AleatorioEmple {
 			file.writeDouble(salario[i]);
 		}
 		file.close();
+		
+		System.out.println("Linea de visualización 3 - Commit 3");
 	}// fin crear
 
 }// fin class
